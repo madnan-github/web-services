@@ -3,11 +3,11 @@ export default function Projects() {
     <div>
       <main>
         <h2>My Projects</h2>
-        <ul>
-          <li>Project 1</li>
-          <li>Project 2</li>
-          <li>Project 3</li>
-        </ul>
+        <ol>
+          <li>Java Script Projects </li>
+          <li>Typescript / Node Projects </li>
+          <li>Python Projects</li>
+        </ol>
       </main>
     </div>
   );
