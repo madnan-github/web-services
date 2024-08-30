@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-        <h2>Welcome to My Portfolio</h2>
+        <h1>Welcome to My Portfolio</h1>
         <p>This is where I showcase my work and skills.</p>
     </div>
   );
