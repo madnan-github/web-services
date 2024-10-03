@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/image"
 import mypics from "../../../assets/img/mypics.jpg"
 
 export default function About() {
@@ -14,7 +14,7 @@ export default function About() {
                 <p className='text-xl fond-bold font-normal text-blue-950 text-center py-15'>"<b>Hi!</b> I am a passionate <u>Front-end Web Developer</u> learner, focused on building interactive, responsive, and user-friendly websites. I enjoy working with HTML, CSS, JavaScript, and modern frameworks to bring creative ideas to life. As I continue learning, I am eager to contribute to real-world projects and enhance my skills further."</p>
 
             </div>
-            <div className=" w-[30%] pt-20 pl-10" >
+            <div className="w-[30%] pt-20 pl-10">
 
                 <Image src={mypics}
                     alt="picture"
@@ -25,5 +25,5 @@ export default function About() {
         </div>
         </main>
       </div>
-    );
+    )
   }

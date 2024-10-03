@@ -4,7 +4,7 @@ import pics from "../assets/img/pics.jpg"
 
 function Hero() {
     return (
-        <div className="flex py-8 ">
+        <div className="flex py-8">
             
             <div className="px-6 w-[40%] py-28">
                 <><div className='text-5xl sm:text- font-bold font-serif text-blue-600 animate-pulse text-center'>Web</div>
